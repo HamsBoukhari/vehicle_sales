@@ -1,9 +1,8 @@
 Création d'un tableau de bord avec Power BI pour analyser les ventes des véhicules.Démonstration:
 
+![ventes_veh1](https://user-images.githubusercontent.com/107585348/236060331-97181e95-e689-455f-b60e-0691e084d8f8.png)
 
-![ventesveh1](https://user-images.githubusercontent.com/107585348/236058954-9ef49fd1-e52b-4f58-8c32-12fcde3e9101.png)
+![ventes_veh2](https://user-images.githubusercontent.com/107585348/236060353-ec701eb9-faf7-48e1-80a5-04b4982c0505.png)
 
-![ventes2](https://user-images.githubusercontent.com/107585348/236058967-ddc8acb2-ad4e-4f0a-b828-d1cb8d6d49a4.png)
-
-![ventes3](https://user-images.githubusercontent.com/107585348/236058976-19ca6c2c-730b-455b-92cb-65b610c78968.png)
+![ventes_veh3](https://user-images.githubusercontent.com/107585348/236060379-ced1ed66-d128-4b7a-ae92-aa24772108cf.png)
 
